@@ -1,0 +1,22 @@
+2023-08-13 19:57:50,870 :INFO :test_register :Registeration isSuccess!
+2023-08-13 20:00:36,067 :INFO :test_register :Registeration isSuccess!
+2023-08-13 20:00:37,525 :INFO :test_phone_purchase :iphone X
+2023-08-13 20:00:37,580 :INFO :test_phone_purchase :Samsung Note 8
+2023-08-13 20:00:37,638 :INFO :test_phone_purchase :Nokia Edge
+2023-08-13 20:00:37,692 :INFO :test_phone_purchase :Blackberry
+2023-08-13 20:00:43,497 :INFO :test_phone_purchase :Registeration is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-08-13 20:02:32,775 :INFO :test_register :Success!
+2023-08-13 20:02:34,011 :INFO :test_phone_purchase :iphone X
+2023-08-13 20:02:34,033 :INFO :test_phone_purchase :Samsung Note 8
+2023-08-13 20:02:34,061 :INFO :test_phone_purchase :Nokia Edge
+2023-08-13 20:02:34,083 :INFO :test_phone_purchase :Blackberry
+2023-08-13 20:02:39,645 :INFO :test_phone_purchase :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-08-13 20:05:37,700 :INFO :test_register :Success!
+2023-08-13 20:05:39,207 :INFO :test_phone_purchase :iphone X
+2023-08-13 20:05:39,261 :INFO :test_phone_purchase :Samsung Note 8
+2023-08-13 20:05:39,319 :INFO :test_phone_purchase :Nokia Edge
+2023-08-13 20:05:39,355 :INFO :test_phone_purchase :Blackberry
+2023-08-13 20:05:44,897 :INFO :test_phone_purchase :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
